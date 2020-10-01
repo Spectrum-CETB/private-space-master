@@ -32,7 +32,7 @@
   <link rel="stylesheet" type="text/css" href="main.css">
 
     <script src="jquery/jquery.min.js"></script>
-    <!---- jquery link local dont forget to place this in first than other script or link or may not work ---->
+    <!---- jquery link local dont forget to place this in first than other script or link else may not work ---->
     
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <!---- boostrap.min link local ----->
@@ -47,7 +47,7 @@
     <!---- Icon link local ----->
     
   <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    <!---- Font awesom link local ----->
+    <!---- Font awesome link local ----->
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
