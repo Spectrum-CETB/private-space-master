@@ -32,7 +32,7 @@ if(!isset($_SESSION["uname"])){
     <!---- Icon link local ----->
     
   <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-    <!---- Font awesom link local ----->
+    <!---- Font awesome  link local ----->
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
